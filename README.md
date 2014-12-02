@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-GitHub study
+GitHub study.
+What is GitHub and what is hello-world.
